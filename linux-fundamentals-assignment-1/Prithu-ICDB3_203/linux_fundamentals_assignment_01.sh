@@ -15,7 +15,7 @@ mkdir -p ~/linux_fundamentals/backup && mv ~/linux_fundamentals/scripts/example.
 chmod 644 ~/linux_fundamentals/backup/example.txt
 ls -l ~/linux_fundamentals/backup
 
-# File Modification
+# 3. File Modification
 touch ~/example.txt
 sudo useradd -m student
 sudo chown student ~/example.txt
